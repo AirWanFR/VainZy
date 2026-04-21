@@ -53,5 +53,3 @@ Ce projet est protégé par une **licence propriétaire à usage privé et éduc
 ---
 
 > **Note pour les professeurs** : Ce projet est un travail académique. Il est conçu pour démontrer la maîtrise des structures de données et de la logique de programmation en C#.
-
-Souhaitez-vous que j'ajoute une section spécifique sur les règles du jeu ou sur la structure technique du code (classes, méthodes principales) ?
